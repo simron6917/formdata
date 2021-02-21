@@ -1,11 +1,11 @@
 import React , {Component} from 'react'
-import FormContent from './FormScreen'
-import Table from './FormScreen'
+// import FormContent from './FormScreen'
+// import Table from './FormScreen'
 
 const DataScreen = (props) => {
     return (
         <div>
-            <h1>hello</h1>
+            <h1>Your Information</h1>
             <table>
             <tbody>
          <tr>

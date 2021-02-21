@@ -1,6 +1,7 @@
 *{ box-sizing: border-box; }
 .container{
-    margin: 10px 250px;
+    max-width: 50%;
+    margin: 10px 450px;
     /* background-color: lightcoral; */
 }
 .form-group{
@@ -14,7 +15,7 @@ input {
 }
 
 button{
-    width: 0p80x;
+    width: 80px;
     padding: 10px;
     /* margin-left: 250px; */
     background: #fff;
